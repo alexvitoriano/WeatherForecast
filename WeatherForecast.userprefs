@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{4E279557-AA9E-4147-8A40-366E2A9BD1A4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WeatherForecast/WeatherForecast.iOS/Info.plist">
+    <Files>
+      <File FileName="WeatherForecast/WeatherForecast.iOS/Info.plist" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.ItemProperties.WeatherForecast.Android PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.WeatherForecast.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.2CD95FCF-5C4F-4B3D-971B-79E20E7DB284" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

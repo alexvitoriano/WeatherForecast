@@ -1,0 +1,2 @@
+F:\WeatherForecast\WeatherForecast\WeatherForecast.UWP\WeatherForecast.UWP.csproj;x86
+F:\WeatherForecast\WeatherForecast\WeatherForecast\WeatherForecast.csproj;neutral
