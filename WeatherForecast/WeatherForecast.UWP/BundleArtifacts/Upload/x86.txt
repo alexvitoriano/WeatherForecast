@@ -1,0 +1,2 @@
+MainPackage=D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\Upload\WeatherForecast.UWP_1.1.0.0_x86.appx
+SymbolPackage=D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\Upload\WeatherForecast.UWP_1.1.0.0\WeatherForecast.UWP_1.1.0.0_x86.appxsym

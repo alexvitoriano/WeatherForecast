@@ -17,7 +17,11 @@
     <EnableDotNetNativeCompatibleProfile>true</EnableDotNetNativeCompatibleProfile>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{A5A43C5B-DE2A-4C0C-9213-0A381AF9435A};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
-    <PackageCertificateKeyFile>WeatherForecast.UWP_TemporaryKey.pfx</PackageCertificateKeyFile>
+    <PackageCertificateKeyFile>WeatherForecast.UWP_StoreKey.pfx</PackageCertificateKeyFile>
+    <AppxAutoIncrementPackageRevision>True</AppxAutoIncrementPackageRevision>
+    <AppxBundle>Always</AppxBundle>
+    <AppxBundlePlatforms>x86|x64|arm</AppxBundlePlatforms>
+    <PackageCertificateThumbprint>668029E0AEA6DA86AECBE186A4C5B414DC2C1A88</PackageCertificateThumbprint>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|ARM'">
     <DebugSymbols>true</DebugSymbols>
@@ -105,6 +109,7 @@
     <AppxManifest Include="Package.appxmanifest">
       <SubType>Designer</SubType>
     </AppxManifest>
+    <None Include="WeatherForecast.UWP_StoreKey.pfx" />
     <None Include="WeatherForecast.UWP_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
@@ -117,11 +122,17 @@
     <Content Include="..\WeatherForecast\Images\clouds_background.jpg">
       <Link>Assets\clouds_background.jpg</Link>
     </Content>
+    <Content Include="..\WeatherForecast\Images\drizzle_background.jpg">
+      <Link>Assets\drizzle_background.jpg</Link>
+    </Content>
     <Content Include="..\WeatherForecast\Images\fewclouds.png">
       <Link>Assets\fewclouds.png</Link>
     </Content>
     <Content Include="..\WeatherForecast\Images\fog.jpg">
       <Link>Assets\fog.jpg</Link>
+    </Content>
+    <Content Include="..\WeatherForecast\Images\hail_background.jpg">
+      <Link>Assets\hail_background.jpg</Link>
     </Content>
     <Content Include="..\WeatherForecast\Images\mist.png">
       <Link>Assets\mist.png</Link>
@@ -141,17 +152,20 @@
     <Content Include="..\WeatherForecast\Images\rain_background.jpg">
       <Link>Assets\rain_background.jpg</Link>
     </Content>
-    <Content Include="..\WeatherForecast\Images\reload.png">
-      <Link>Assets\reload.png</Link>
-    </Content>
     <Content Include="..\WeatherForecast\Images\shower.png">
       <Link>Assets\shower.png</Link>
     </Content>
     <Content Include="..\WeatherForecast\Images\snow.png">
       <Link>Assets\snow.png</Link>
     </Content>
+    <Content Include="..\WeatherForecast\Images\snow_background.jpg">
+      <Link>Assets\snow_background.jpg</Link>
+    </Content>
     <Content Include="..\WeatherForecast\Images\storm.png">
       <Link>Assets\storm.png</Link>
+    </Content>
+    <Content Include="..\WeatherForecast\Images\storm_background.jpg">
+      <Link>Assets\storm_background.jpg</Link>
     </Content>
     <Content Include="..\WeatherForecast\Images\sun.png">
       <Link>Assets\sun.png</Link>
@@ -159,6 +173,28 @@
     <Content Include="..\WeatherForecast\Images\sun_background.jpg">
       <Link>Assets\sun_background.jpg</Link>
     </Content>
+    <Content Include="Assets\LargeTile.scale-100.png" />
+    <Content Include="Assets\LargeTile.scale-125.png" />
+    <Content Include="Assets\LargeTile.scale-150.png" />
+    <Content Include="Assets\LargeTile.scale-200.png" />
+    <Content Include="Assets\LargeTile.scale-400.png" />
+    <Content Include="Assets\reload.png" />
+    <Content Include="Assets\SmallTile.scale-100.png" />
+    <Content Include="Assets\SmallTile.scale-125.png" />
+    <Content Include="Assets\SmallTile.scale-150.png" />
+    <Content Include="Assets\SmallTile.scale-200.png" />
+    <Content Include="Assets\SmallTile.scale-400.png" />
+    <Content Include="Assets\Square44x44Logo.targetsize-16.png" />
+    <Content Include="Assets\Square44x44Logo.targetsize-24.png" />
+    <Content Include="Assets\Square44x44Logo.targetsize-256.png" />
+    <Content Include="Assets\Square44x44Logo.targetsize-32.png" />
+    <Content Include="Assets\Square44x44Logo.targetsize-48.png" />
+    <Content Include="Assets\StoreLogo.scale-100.png" />
+    <Content Include="Assets\StoreLogo.scale-125.png" />
+    <Content Include="Assets\StoreLogo.scale-150.png" />
+    <Content Include="Assets\StoreLogo.scale-200.png" />
+    <Content Include="Assets\StoreLogo.scale-400.png" />
+    <None Include="Package.StoreAssociation.xml" />
     <Content Include="Properties\Default.rd.xml" />
     <Content Include="Assets\LockScreenLogo.scale-100.png" />
     <Content Include="Assets\LockScreenLogo.scale-125.png" />
@@ -185,12 +221,12 @@
     <Content Include="Assets\Square44x44Logo.targetsize-32_altform-unplated.png" />
     <Content Include="Assets\Square44x44Logo.targetsize-48_altform-unplated.png" />
     <Content Include="Assets\Square44x44Logo.targetsize-256_altform-unplated.png" />
-    <Content Include="Assets\StoreLogo.png" />
     <Content Include="Assets\Wide310x150Logo.scale-100.png" />
     <Content Include="Assets\Wide310x150Logo.scale-125.png" />
     <Content Include="Assets\Wide310x150Logo.scale-150.png" />
     <Content Include="Assets\Wide310x150Logo.scale-200.png" />
     <Content Include="Assets\Wide310x150Logo.scale-400.png" />
+    <Content Include="reload.png" />
   </ItemGroup>
   <ItemGroup>
     <ApplicationDefinition Include="App.xaml">

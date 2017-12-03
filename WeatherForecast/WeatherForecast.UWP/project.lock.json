@@ -22419,12 +22419,12 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "F:\\WeatherForecast\\WeatherForecast\\WeatherForecast.UWP\\WeatherForecast.UWP.csproj",
+      "projectUniqueName": "D:\\Fontes\\WeatherForecast\\WeatherForecast\\WeatherForecast.UWP\\WeatherForecast.UWP.csproj",
       "projectName": "WeatherForecast.UWP",
-      "projectPath": "F:\\WeatherForecast\\WeatherForecast\\WeatherForecast.UWP\\WeatherForecast.UWP.csproj",
-      "projectJsonPath": "F:\\WeatherForecast\\WeatherForecast\\WeatherForecast.UWP\\project.json",
+      "projectPath": "D:\\Fontes\\WeatherForecast\\WeatherForecast\\WeatherForecast.UWP\\WeatherForecast.UWP.csproj",
+      "projectJsonPath": "D:\\Fontes\\WeatherForecast\\WeatherForecast\\WeatherForecast.UWP\\project.json",
       "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-      "outputPath": "F:\\WeatherForecast\\WeatherForecast\\WeatherForecast.UWP\\obj\\",
+      "outputPath": "D:\\Fontes\\WeatherForecast\\WeatherForecast\\WeatherForecast.UWP\\obj\\",
       "projectStyle": "ProjectJson",
       "configFilePaths": [
         "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22437,8 +22437,8 @@
       "frameworks": {
         "uap10.0.10586": {
           "projectReferences": {
-            "F:\\WeatherForecast\\WeatherForecast\\WeatherForecast\\WeatherForecast.csproj": {
-              "projectPath": "F:\\WeatherForecast\\WeatherForecast\\WeatherForecast\\WeatherForecast.csproj"
+            "D:\\Fontes\\WeatherForecast\\WeatherForecast\\WeatherForecast\\WeatherForecast.csproj": {
+              "projectPath": "D:\\Fontes\\WeatherForecast\\WeatherForecast\\WeatherForecast\\WeatherForecast.csproj"
             }
           }
         }

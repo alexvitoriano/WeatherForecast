@@ -8,8 +8,8 @@
     <TargetOsDescription>Windows 10.0</TargetOsDescription>
     <SolutionConfiguration>Debug|x86</SolutionConfiguration>
     <PackageArchitecture>x86</PackageArchitecture>
-    <PackageIdentityName>593d3d90-6cdb-45c6-9ad6-ad0810499f6e</PackageIdentityName>
-    <PackageIdentityPublisher>CN=Alex</PackageIdentityPublisher>
+    <PackageIdentityName>19f48852-f4cc-468e-854d-29a1ea61e66d</PackageIdentityName>
+    <PackageIdentityPublisher>CN=C2206A17-5C4D-40FA-819E-F040A0EB815F</PackageIdentityPublisher>
     <IntermediateOutputPath>D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
@@ -19,25 +19,25 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
     <LayoutDir>D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>7D7CF4C74F53F1D675BBA425C5BAA8D120EB6A588A3F141207DF15322DE00B6F</RegisteredManifestChecksum>
-    <RegisteredPackageMoniker>593d3d90-6cdb-45c6-9ad6-ad0810499f6e_1.0.0.0_x86__cb1hhkscw5m06</RegisteredPackageMoniker>
-    <RegisteredUserModeAppID>593d3d90-6cdb-45c6-9ad6-ad0810499f6e_cb1hhkscw5m06!App</RegisteredUserModeAppID>
-    <RegisteredPackageID>593d3d90-6cdb-45c6-9ad6-ad0810499f6e</RegisteredPackageID>
-    <RegisteredPackagePublisher>CN=Alex</RegisteredPackagePublisher>
-    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <RegisteredManifestChecksum>0A27E370E7B6527A2341C46A7F673FD5EB3A1EC45227A8AB904CEBB1E34B371F</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>44250AlexVitoriano.com.AlexVitoriano.Tempo_1.1.0.0_x86__gqnws6ycvhw9e</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>44250AlexVitoriano.com.AlexVitoriano.Tempo_gqnws6ycvhw9e!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>44250AlexVitoriano.com.AlexVitoriano.Tempo</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=C2206A17-5C4D-40FA-819E-F040A0EB815F</RegisteredPackagePublisher>
+    <RegisteredVersion>1.1.0.0</RegisteredVersion>
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
     <AppXManifest Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-28T05:45:13.712</Modified>
+      <Modified>2017-12-02T19:36:16.035</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Debug\WeatherForecast.UWP.exe">
       <PackagePath>entrypoint\WeatherForecast.UWP.exe</PackagePath>
-      <Modified>2017-11-28T05:45:12.628</Modified>
+      <Modified>2017-12-02T19:36:12.479</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\asus\.nuget\packages\microsoft.csharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -521,7 +521,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\bin\Debug\WeatherForecast.dll">
       <PackagePath>WeatherForecast.dll</PackagePath>
-      <Modified>2017-11-28T05:45:09.543</Modified>
+      <Modified>2017-12-02T15:53:59.270</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\bin\Debug\Newtonsoft.Json.dll">
       <PackagePath>Newtonsoft.Json.dll</PackagePath>
@@ -529,281 +529,428 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\brokenclouds.png">
       <PackagePath>Assets\brokenclouds.png</PackagePath>
-      <Modified>2017-11-28T05:00:45.507</Modified>
+      <Modified>2017-11-28T05:00:46.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\cloud.png">
       <PackagePath>Assets\cloud.png</PackagePath>
-      <Modified>2017-11-28T03:04:13.918</Modified>
+      <Modified>2017-11-28T03:04:14.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\fewclouds.png">
       <PackagePath>Assets\fewclouds.png</PackagePath>
-      <Modified>2017-11-28T05:00:47.957</Modified>
+      <Modified>2017-11-28T05:00:48.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\mist.png">
       <PackagePath>Assets\mist.png</PackagePath>
-      <Modified>2017-11-28T05:00:47.967</Modified>
+      <Modified>2017-11-28T05:00:48.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\moon.png">
       <PackagePath>Assets\moon.png</PackagePath>
-      <Modified>2017-11-28T05:00:47.998</Modified>
+      <Modified>2017-11-28T05:00:48.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\norain.png">
       <PackagePath>Assets\norain.png</PackagePath>
-      <Modified>2017-11-28T05:00:48.006</Modified>
+      <Modified>2017-11-28T05:00:50.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\rain.png">
       <PackagePath>Assets\rain.png</PackagePath>
-      <Modified>2017-11-28T05:00:48.027</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\reload.png">
-      <PackagePath>Assets\reload.png</PackagePath>
-      <Modified>2017-11-28T05:00:48.090</Modified>
+      <Modified>2017-11-28T05:00:50.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\shower.png">
       <PackagePath>Assets\shower.png</PackagePath>
-      <Modified>2017-11-28T05:00:48.096</Modified>
+      <Modified>2017-11-28T05:00:50.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\snow.png">
       <PackagePath>Assets\snow.png</PackagePath>
-      <Modified>2017-11-28T05:00:48.104</Modified>
+      <Modified>2017-11-28T05:00:50.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\storm.png">
       <PackagePath>Assets\storm.png</PackagePath>
-      <Modified>2017-11-28T05:00:48.114</Modified>
+      <Modified>2017-11-28T05:00:50.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\sun.png">
       <PackagePath>Assets\sun.png</PackagePath>
-      <Modified>2017-11-28T05:00:48.134</Modified>
+      <Modified>2017-11-28T05:00:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\LargeTile.scale-100.png">
+      <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-02T15:11:38.453</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\LargeTile.scale-125.png">
+      <PackagePath>Assets\LargeTile.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-02T15:11:38.508</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\LargeTile.scale-150.png">
+      <PackagePath>Assets\LargeTile.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-02T15:11:38.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\LargeTile.scale-200.png">
+      <PackagePath>Assets\LargeTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-02T15:11:38.723</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\LargeTile.scale-400.png">
+      <PackagePath>Assets\LargeTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-02T15:11:39.124</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\reload.png">
+      <PackagePath>Assets\reload.png</PackagePath>
+      <Modified>2017-12-02T15:24:04.971</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\SmallTile.scale-100.png">
+      <PackagePath>Assets\SmallTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-02T15:11:37.640</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\SmallTile.scale-125.png">
+      <PackagePath>Assets\SmallTile.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-02T15:11:37.658</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\SmallTile.scale-150.png">
+      <PackagePath>Assets\SmallTile.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-02T15:11:37.679</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\SmallTile.scale-200.png">
+      <PackagePath>Assets\SmallTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-02T15:11:37.696</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\SmallTile.scale-400.png">
+      <PackagePath>Assets\SmallTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-02T15:11:37.763</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\Square44x44Logo.targetsize-16.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-02T15:11:39.196</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\Square44x44Logo.targetsize-24.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-02T15:11:39.205</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\Square44x44Logo.targetsize-256.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-02T15:11:39.274</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\Square44x44Logo.targetsize-32.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-02T15:11:39.218</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\Square44x44Logo.targetsize-48.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-02T15:11:39.230</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-02T15:11:40.660</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\StoreLogo.scale-125.png">
+      <PackagePath>Assets\StoreLogo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-02T15:11:40.670</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\StoreLogo.scale-150.png">
+      <PackagePath>Assets\StoreLogo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-02T15:11:40.681</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\StoreLogo.scale-200.png">
+      <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-02T15:11:40.695</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\StoreLogo.scale-400.png">
+      <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-02T15:11:40.729</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\LockScreenLogo.scale-100.png">
       <PackagePath>Assets\LockScreenLogo.scale-100.png</PackagePath>
-      <Modified>2017-11-28T02:19:44.234</Modified>
+      <Modified>2017-11-28T02:19:46.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\LockScreenLogo.scale-125.png">
       <PackagePath>Assets\LockScreenLogo.scale-125.png</PackagePath>
-      <Modified>2017-11-28T02:19:44.239</Modified>
+      <Modified>2017-11-28T02:19:46.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\LockScreenLogo.scale-150.png">
       <PackagePath>Assets\LockScreenLogo.scale-150.png</PackagePath>
-      <Modified>2017-11-28T02:19:44.242</Modified>
+      <Modified>2017-11-28T02:19:46.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
-      <Modified>2017-11-28T02:19:44.245</Modified>
+      <Modified>2017-11-28T02:19:46.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\LockScreenLogo.scale-400.png">
       <PackagePath>Assets\LockScreenLogo.scale-400.png</PackagePath>
-      <Modified>2017-11-28T02:19:44.256</Modified>
+      <Modified>2017-11-28T02:19:46.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-28T02:19:44.259</Modified>
+      <Modified>2017-12-02T15:11:39.447</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\SplashScreen.scale-125.png">
       <PackagePath>Assets\SplashScreen.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-28T02:19:44.261</Modified>
+      <Modified>2017-12-02T15:11:39.545</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\SplashScreen.scale-150.png">
       <PackagePath>Assets\SplashScreen.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-28T02:19:44.264</Modified>
+      <Modified>2017-12-02T15:11:39.656</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-28T02:19:44.267</Modified>
+      <Modified>2017-12-02T15:11:39.868</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\SplashScreen.scale-400.png">
       <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-28T02:19:44.270</Modified>
+      <Modified>2017-12-02T15:11:40.648</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\Square150x150Logo.scale-100.png">
       <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-28T02:19:44.273</Modified>
+      <Modified>2017-12-02T15:11:37.888</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\Square150x150Logo.scale-125.png">
       <PackagePath>Assets\Square150x150Logo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-28T02:19:44.276</Modified>
+      <Modified>2017-12-02T15:11:37.907</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\Square150x150Logo.scale-150.png">
       <PackagePath>Assets\Square150x150Logo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-28T02:19:44.279</Modified>
+      <Modified>2017-12-02T15:11:37.928</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-28T02:19:44.282</Modified>
+      <Modified>2017-12-02T15:11:37.962</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\Square150x150Logo.scale-400.png">
       <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-28T02:19:44.285</Modified>
+      <Modified>2017-12-02T15:11:38.077</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\Square44x44Logo.scale-100.png">
       <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-28T02:19:44.288</Modified>
+      <Modified>2017-12-02T15:11:39.133</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\Square44x44Logo.scale-125.png">
       <PackagePath>Assets\Square44x44Logo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-28T02:19:44.291</Modified>
+      <Modified>2017-12-02T15:11:39.142</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\Square44x44Logo.scale-150.png">
       <PackagePath>Assets\Square44x44Logo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-28T02:19:44.293</Modified>
+      <Modified>2017-12-02T15:11:39.152</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-28T02:19:44.296</Modified>
+      <Modified>2017-12-02T15:11:39.167</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\Square44x44Logo.scale-400.png">
       <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-28T02:19:44.299</Modified>
+      <Modified>2017-12-02T15:11:39.189</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\Square44x44Logo.targetsize-16_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-16_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-28T02:19:44.302</Modified>
+      <Modified>2017-12-02T15:11:39.294</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-28T02:19:44.305</Modified>
+      <Modified>2017-12-02T15:11:39.305</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\Square44x44Logo.targetsize-32_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-32_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-28T02:19:44.311</Modified>
+      <Modified>2017-12-02T15:11:39.315</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\Square44x44Logo.targetsize-48_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-48_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-28T02:19:44.314</Modified>
+      <Modified>2017-12-02T15:11:39.327</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\Square44x44Logo.targetsize-256_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-256_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-28T02:19:44.309</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\StoreLogo.png">
-      <PackagePath>Assets\StoreLogo.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-28T02:19:44.317</Modified>
+      <Modified>2017-12-02T15:11:39.385</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\Wide310x150Logo.scale-100.png">
       <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-28T02:19:44.320</Modified>
+      <Modified>2017-12-02T15:11:38.101</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\Wide310x150Logo.scale-125.png">
       <PackagePath>Assets\Wide310x150Logo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-28T02:19:44.323</Modified>
+      <Modified>2017-12-02T15:11:38.129</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\Wide310x150Logo.scale-150.png">
       <PackagePath>Assets\Wide310x150Logo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-28T02:19:44.326</Modified>
+      <Modified>2017-12-02T15:11:38.182</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-28T02:19:44.329</Modified>
+      <Modified>2017-12-02T15:11:38.241</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\Wide310x150Logo.scale-400.png">
       <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-28T02:19:44.332</Modified>
+      <Modified>2017-12-02T15:11:38.422</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\reload.png">
+      <PackagePath>reload.png</PackagePath>
+      <Modified>2017-12-02T15:56:25.094</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\brokenclouds.png">
       <PackagePath>WeatherForecast\Images\brokenclouds.png</PackagePath>
-      <Modified>2017-11-28T05:00:45.507</Modified>
+      <Modified>2017-11-28T05:00:46.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\cloud.png">
       <PackagePath>WeatherForecast\Images\cloud.png</PackagePath>
-      <Modified>2017-11-28T03:04:13.918</Modified>
+      <Modified>2017-11-28T03:04:14.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\fewclouds.png">
       <PackagePath>WeatherForecast\Images\fewclouds.png</PackagePath>
-      <Modified>2017-11-28T05:00:47.957</Modified>
+      <Modified>2017-11-28T05:00:48.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\mist.png">
       <PackagePath>WeatherForecast\Images\mist.png</PackagePath>
-      <Modified>2017-11-28T05:00:47.967</Modified>
+      <Modified>2017-11-28T05:00:48.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\moon.png">
       <PackagePath>WeatherForecast\Images\moon.png</PackagePath>
-      <Modified>2017-11-28T05:00:47.998</Modified>
+      <Modified>2017-11-28T05:00:48.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\norain.png">
       <PackagePath>WeatherForecast\Images\norain.png</PackagePath>
-      <Modified>2017-11-28T05:00:48.006</Modified>
+      <Modified>2017-11-28T05:00:50.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\rain.png">
       <PackagePath>WeatherForecast\Images\rain.png</PackagePath>
-      <Modified>2017-11-28T05:00:48.027</Modified>
+      <Modified>2017-11-28T05:00:50.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\reload.png">
       <PackagePath>WeatherForecast\Images\reload.png</PackagePath>
-      <Modified>2017-11-28T05:00:48.090</Modified>
+      <Modified>2017-11-28T05:00:50.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\shower.png">
       <PackagePath>WeatherForecast\Images\shower.png</PackagePath>
-      <Modified>2017-11-28T05:00:48.096</Modified>
+      <Modified>2017-11-28T05:00:50.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\snow.png">
       <PackagePath>WeatherForecast\Images\snow.png</PackagePath>
-      <Modified>2017-11-28T05:00:48.104</Modified>
+      <Modified>2017-11-28T05:00:50.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\storm.png">
       <PackagePath>WeatherForecast\Images\storm.png</PackagePath>
-      <Modified>2017-11-28T05:00:48.114</Modified>
+      <Modified>2017-11-28T05:00:50.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\sun.png">
       <PackagePath>WeatherForecast\Images\sun.png</PackagePath>
-      <Modified>2017-11-28T05:00:48.134</Modified>
+      <Modified>2017-11-28T05:00:50.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\clouds_background.jpg">
       <PackagePath>Assets\clouds_background.jpg</PackagePath>
-      <Modified>2017-11-28T05:00:47.933</Modified>
+      <Modified>2017-11-28T05:00:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\drizzle_background.jpg">
+      <PackagePath>Assets\drizzle_background.jpg</PackagePath>
+      <Modified>2017-12-02T15:02:29.785</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\fog.jpg">
+      <PackagePath>Assets\fog.jpg</PackagePath>
+      <Modified>2017-11-28T15:10:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\hail_background.jpg">
+      <PackagePath>Assets\hail_background.jpg</PackagePath>
+      <Modified>2017-12-02T14:24:02.986</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\mist_background.jpg">
+      <PackagePath>Assets\mist_background.jpg</PackagePath>
+      <Modified>2017-11-28T15:27:00.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\rain_background.jpg">
       <PackagePath>Assets\rain_background.jpg</PackagePath>
-      <Modified>2017-11-28T05:00:48.061</Modified>
+      <Modified>2017-11-28T05:00:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\snow_background.jpg">
+      <PackagePath>Assets\snow_background.jpg</PackagePath>
+      <Modified>2017-12-02T14:24:02.892</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\storm_background.jpg">
+      <PackagePath>Assets\storm_background.jpg</PackagePath>
+      <Modified>2017-12-02T14:24:02.932</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\sun_background.jpg">
       <PackagePath>Assets\sun_background.jpg</PackagePath>
-      <Modified>2017-11-28T05:00:48.180</Modified>
+      <Modified>2017-11-28T05:00:50.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\clouds_background.jpg">
       <PackagePath>WeatherForecast\Images\clouds_background.jpg</PackagePath>
-      <Modified>2017-11-28T05:00:47.933</Modified>
+      <Modified>2017-11-28T05:00:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\drizzle_background.jpg">
+      <PackagePath>WeatherForecast\Images\drizzle_background.jpg</PackagePath>
+      <Modified>2017-12-02T15:02:29.785</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\fog.jpg">
+      <PackagePath>WeatherForecast\Images\fog.jpg</PackagePath>
+      <Modified>2017-11-28T15:10:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\hail_background.jpg">
+      <PackagePath>WeatherForecast\Images\hail_background.jpg</PackagePath>
+      <Modified>2017-12-02T14:24:02.986</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\mist_background.jpg">
+      <PackagePath>WeatherForecast\Images\mist_background.jpg</PackagePath>
+      <Modified>2017-11-28T15:27:00.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\rain_background.jpg">
       <PackagePath>WeatherForecast\Images\rain_background.jpg</PackagePath>
-      <Modified>2017-11-28T05:00:48.061</Modified>
+      <Modified>2017-11-28T05:00:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\snow_background.jpg">
+      <PackagePath>WeatherForecast\Images\snow_background.jpg</PackagePath>
+      <Modified>2017-12-02T14:24:02.892</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\storm_background.jpg">
+      <PackagePath>WeatherForecast\Images\storm_background.jpg</PackagePath>
+      <Modified>2017-12-02T14:24:02.932</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\sun_background.jpg">
       <PackagePath>WeatherForecast\Images\sun_background.jpg</PackagePath>
-      <Modified>2017-11-28T05:00:48.180</Modified>
+      <Modified>2017-11-28T05:00:50.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
-      <Modified>2017-11-28T02:19:44.335</Modified>
+      <Modified>2017-11-28T02:19:46.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Debug\WeatherForecast.UWP.xr.xml">
       <PackagePath>WeatherForecast.UWP.xr.xml</PackagePath>
-      <Modified>2017-11-28T05:27:42.399</Modified>
+      <Modified>2017-11-28T05:27:44.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.15063.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -816,11 +963,11 @@
     <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-28T05:43:45.105</Modified>
+      <Modified>2017-12-02T19:36:14.756</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Debug\Core\WeatherForecast.UWP.exe">
       <PackagePath>WeatherForecast.UWP.exe</PackagePath>
-      <Modified>2017-11-28T05:45:13.709</Modified>
+      <Modified>2017-12-02T19:36:16.017</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

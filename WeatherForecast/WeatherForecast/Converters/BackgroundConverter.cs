@@ -27,6 +27,20 @@ namespace WeatherForecast.Converters
                 else
                     return "rain_background.jpg";
             }
+            else if (condition.Contains("storm"))
+            {
+                if (Device.RuntimePlatform == Device.UWP)
+                    return "Assets/storm_background.jpg";
+                else
+                    return "storm_background.jpg";
+            }
+            else if (condition.Contains("snow"))
+            {
+                if (Device.RuntimePlatform == Device.UWP)
+                    return "Assets/snow_background.jpg";
+                else
+                    return "snow_background.jpg";
+            }
             else if (condition.Contains("fog"))
             {
                 if (Device.RuntimePlatform == Device.UWP)
@@ -34,12 +48,26 @@ namespace WeatherForecast.Converters
                 else
                     return "fog.jpg";
             }
-            else if (condition.Contains("mist"))
+            else if (condition.Contains("drizzle"))
+            {
+                if (Device.RuntimePlatform == Device.UWP)
+                    return "Assets/drizzle_background.jpg";
+                else
+                    return "drizzle_background.jpg";
+            }
+            else if (condition.Contains("mist")|| condition.Contains("haze"))
             {
                 if (Device.RuntimePlatform == Device.UWP)
                     return "Assets/mist_background.jpg";
                 else
                     return "mist_background.jpg";
+            }
+            else if (condition.Contains("hail") || condition.Contains("sleet"))
+            {
+                if (Device.RuntimePlatform == Device.UWP)
+                    return "Assets/hail_background.jpg";
+                else
+                    return "hail_background.jpg";
             }
             else if (condition.Contains("sun") || (condition.Contains("clear sky")))
             {

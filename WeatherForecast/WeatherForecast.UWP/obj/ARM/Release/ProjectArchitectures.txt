@@ -1,0 +1,2 @@
+D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\WeatherForecast.UWP.csproj;arm
+D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\WeatherForecast.csproj;neutral

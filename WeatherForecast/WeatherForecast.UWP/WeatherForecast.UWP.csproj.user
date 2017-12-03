@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Source>C:\Users\asus\Desktop\ForecastApp\windows\icon.png</Source>
+    <SmallTileSource>C:\Users\asus\Desktop\ForecastApp\windows\icon.png</SmallTileSource>
+    <MediumTileSource>C:\Users\asus\Desktop\ForecastApp\windows\icon.png</MediumTileSource>
+    <WideTileSource>C:\Users\asus\Desktop\ForecastApp\windows\icon.png</WideTileSource>
+    <LargeTileSource>C:\Users\asus\Desktop\ForecastApp\windows\icon.png</LargeTileSource>
+    <AppIconSource>C:\Users\asus\Desktop\ForecastApp\windows\icon.png</AppIconSource>
+    <SplashScreenSource>C:\Users\asus\Desktop\ForecastApp\windows\icon.png</SplashScreenSource>
+    <PackageLogoSource>C:\Users\asus\Desktop\ForecastApp\windows\icon.png</PackageLogoSource>
+    <AppxPackageIsForStore>True</AppxPackageIsForStore>
+    <AppxShowAllApps>False</AppxShowAllApps>
+    <AppxBuildConfigurationSelection>x86|x64|arm</AppxBuildConfigurationSelection>
+    <PackageOptionalProjectsInIdeBuilds>False</PackageOptionalProjectsInIdeBuilds>
+  </PropertyGroup>
+</Project>

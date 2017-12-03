@@ -10,8 +10,6 @@
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
-		<string>UIInterfaceOrientationLandscapeLeft</string>
-		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
 	<key>UISupportedInterfaceOrientations~ipad</key>
 	<array>
@@ -22,23 +20,29 @@
 	</array>
 	<key>MinimumOSVersion</key>
 	<string>8.0</string>
-	<key>CFBundleDisplayName</key>
-	<string>WeatherForecast</string>
 	<key>CFBundleIdentifier</key>
 	<string>com.alexvitoriano.WeatherForecast</string>
 	<key>CFBundleVersion</key>
 	<string>1.0</string>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
-	<key>CFBundleName</key>
-	<string>WeatherForecast</string>
 	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
 	<string>location to get weather conditions</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
 	<string>location to get weather conditions</string>
 	<key>XSLaunchImageAssets</key>
 	<string>Resources/Media.xcassets/LaunchImages.launchimage</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1</string>
+	<key>UIStatusBarHidden</key>
+	<true/>
 	<key>XSAppIconAssets</key>
-	<string>Resources/Media.xcassets/AppIcons.appiconset</string>
+	<string>Assets.xcassets/AppIcon-1.appiconset</string>
+	<key>CFBundleName</key>
+	<string>AlexVitoriano.Tempo</string>
+	<key>UIMainStoryboardFile</key>
+	<string>LaunchScreen</string>
+	<key>UIStatusBarStyle</key>
+	<string>UIStatusBarStyleLightContent</string>
 </dict>
 </plist>

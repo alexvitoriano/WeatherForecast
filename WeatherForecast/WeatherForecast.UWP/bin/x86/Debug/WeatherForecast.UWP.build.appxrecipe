@@ -8,24 +8,24 @@
     <TargetOsDescription>Windows 10.0</TargetOsDescription>
     <SolutionConfiguration>Debug|x86</SolutionConfiguration>
     <PackageArchitecture>x86</PackageArchitecture>
-    <PackageIdentityName>593d3d90-6cdb-45c6-9ad6-ad0810499f6e</PackageIdentityName>
-    <PackageIdentityPublisher>CN=Alex</PackageIdentityPublisher>
-    <IntermediateOutputPath>F:\WeatherForecast\WeatherForecast\WeatherForecast.UWP\obj\x86\Debug\</IntermediateOutputPath>
+    <PackageIdentityName>19f48852-f4cc-468e-854d-29a1ea61e66d</PackageIdentityName>
+    <PackageIdentityPublisher>CN=C2206A17-5C4D-40FA-819E-F040A0EB815F</PackageIdentityPublisher>
+    <IntermediateOutputPath>D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>F:\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Debug\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="F:\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="F:\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Debug\WeatherForecast.UWP.exe">
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Debug\WeatherForecast.UWP.exe">
       <PackagePath>entrypoint\WeatherForecast.UWP.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\asus\.nuget\packages\microsoft.csharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
@@ -388,237 +388,340 @@
     <AppxPackagedFile Include="C:\Users\asus\.nuget\packages\xamarin.forms\2.4.0.280\lib\uap10.0\Xamarin.Forms.Xaml.dll">
       <PackagePath>Xamarin.Forms.Xaml.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\WeatherForecast\WeatherForecast\WeatherForecast\bin\Debug\WeatherForecast.dll">
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\bin\Debug\WeatherForecast.dll">
       <PackagePath>WeatherForecast.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\WeatherForecast\WeatherForecast\WeatherForecast\bin\Debug\Newtonsoft.Json.dll">
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\bin\Debug\Newtonsoft.Json.dll">
       <PackagePath>Newtonsoft.Json.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\WeatherForecast\WeatherForecast\WeatherForecast\Images\brokenclouds.png">
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\brokenclouds.png">
       <PackagePath>Assets\brokenclouds.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\WeatherForecast\WeatherForecast\WeatherForecast\Images\cloud.png">
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\cloud.png">
       <PackagePath>Assets\cloud.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\WeatherForecast\WeatherForecast\WeatherForecast\Images\fewclouds.png">
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\fewclouds.png">
       <PackagePath>Assets\fewclouds.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\WeatherForecast\WeatherForecast\WeatherForecast\Images\mist.png">
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\mist.png">
       <PackagePath>Assets\mist.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\WeatherForecast\WeatherForecast\WeatherForecast\Images\moon.png">
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\moon.png">
       <PackagePath>Assets\moon.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\WeatherForecast\WeatherForecast\WeatherForecast\Images\norain.png">
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\norain.png">
       <PackagePath>Assets\norain.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\WeatherForecast\WeatherForecast\WeatherForecast\Images\rain.png">
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\rain.png">
       <PackagePath>Assets\rain.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\WeatherForecast\WeatherForecast\WeatherForecast\Images\reload.png">
-      <PackagePath>Assets\reload.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\WeatherForecast\WeatherForecast\WeatherForecast\Images\shower.png">
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\shower.png">
       <PackagePath>Assets\shower.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\WeatherForecast\WeatherForecast\WeatherForecast\Images\snow.png">
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\snow.png">
       <PackagePath>Assets\snow.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\WeatherForecast\WeatherForecast\WeatherForecast\Images\storm.png">
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\storm.png">
       <PackagePath>Assets\storm.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\WeatherForecast\WeatherForecast\WeatherForecast\Images\sun.png">
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\sun.png">
       <PackagePath>Assets\sun.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\LockScreenLogo.scale-100.png">
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\LargeTile.scale-100.png">
+      <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\LargeTile.scale-125.png">
+      <PackagePath>Assets\LargeTile.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\LargeTile.scale-150.png">
+      <PackagePath>Assets\LargeTile.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\LargeTile.scale-200.png">
+      <PackagePath>Assets\LargeTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\LargeTile.scale-400.png">
+      <PackagePath>Assets\LargeTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\reload.png">
+      <PackagePath>Assets\reload.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\SmallTile.scale-100.png">
+      <PackagePath>Assets\SmallTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\SmallTile.scale-125.png">
+      <PackagePath>Assets\SmallTile.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\SmallTile.scale-150.png">
+      <PackagePath>Assets\SmallTile.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\SmallTile.scale-200.png">
+      <PackagePath>Assets\SmallTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\SmallTile.scale-400.png">
+      <PackagePath>Assets\SmallTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\Square44x44Logo.targetsize-16.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\Square44x44Logo.targetsize-24.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\Square44x44Logo.targetsize-256.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\Square44x44Logo.targetsize-32.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\Square44x44Logo.targetsize-48.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\StoreLogo.scale-125.png">
+      <PackagePath>Assets\StoreLogo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\StoreLogo.scale-150.png">
+      <PackagePath>Assets\StoreLogo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\StoreLogo.scale-200.png">
+      <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\StoreLogo.scale-400.png">
+      <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\LockScreenLogo.scale-100.png">
       <PackagePath>Assets\LockScreenLogo.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\LockScreenLogo.scale-125.png">
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\LockScreenLogo.scale-125.png">
       <PackagePath>Assets\LockScreenLogo.scale-125.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\LockScreenLogo.scale-150.png">
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\LockScreenLogo.scale-150.png">
       <PackagePath>Assets\LockScreenLogo.scale-150.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\LockScreenLogo.scale-400.png">
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\LockScreenLogo.scale-400.png">
       <PackagePath>Assets\LockScreenLogo.scale-400.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\SplashScreen.scale-125.png">
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\SplashScreen.scale-125.png">
       <PackagePath>Assets\SplashScreen.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\SplashScreen.scale-150.png">
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\SplashScreen.scale-150.png">
       <PackagePath>Assets\SplashScreen.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\SplashScreen.scale-400.png">
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\SplashScreen.scale-400.png">
       <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\Square150x150Logo.scale-100.png">
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\Square150x150Logo.scale-100.png">
       <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\Square150x150Logo.scale-125.png">
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\Square150x150Logo.scale-125.png">
       <PackagePath>Assets\Square150x150Logo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\Square150x150Logo.scale-150.png">
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\Square150x150Logo.scale-150.png">
       <PackagePath>Assets\Square150x150Logo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\Square150x150Logo.scale-400.png">
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\Square150x150Logo.scale-400.png">
       <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\Square44x44Logo.scale-100.png">
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\Square44x44Logo.scale-100.png">
       <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\Square44x44Logo.scale-125.png">
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\Square44x44Logo.scale-125.png">
       <PackagePath>Assets\Square44x44Logo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\Square44x44Logo.scale-150.png">
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\Square44x44Logo.scale-150.png">
       <PackagePath>Assets\Square44x44Logo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\Square44x44Logo.scale-400.png">
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\Square44x44Logo.scale-400.png">
       <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\Square44x44Logo.targetsize-16_altform-unplated.png">
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\Square44x44Logo.targetsize-16_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-16_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\Square44x44Logo.targetsize-32_altform-unplated.png">
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\Square44x44Logo.targetsize-32_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-32_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\Square44x44Logo.targetsize-48_altform-unplated.png">
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\Square44x44Logo.targetsize-48_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-48_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\Square44x44Logo.targetsize-256_altform-unplated.png">
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\Square44x44Logo.targetsize-256_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-256_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\StoreLogo.png">
-      <PackagePath>Assets\StoreLogo.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\Wide310x150Logo.scale-100.png">
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\Wide310x150Logo.scale-100.png">
       <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\Wide310x150Logo.scale-125.png">
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\Wide310x150Logo.scale-125.png">
       <PackagePath>Assets\Wide310x150Logo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\Wide310x150Logo.scale-150.png">
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\Wide310x150Logo.scale-150.png">
       <PackagePath>Assets\Wide310x150Logo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\Wide310x150Logo.scale-400.png">
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Assets\Wide310x150Logo.scale-400.png">
       <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\WeatherForecast\WeatherForecast\WeatherForecast\Images\brokenclouds.png">
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\reload.png">
+      <PackagePath>reload.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\brokenclouds.png">
       <PackagePath>WeatherForecast\Images\brokenclouds.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\WeatherForecast\WeatherForecast\WeatherForecast\Images\cloud.png">
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\cloud.png">
       <PackagePath>WeatherForecast\Images\cloud.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\WeatherForecast\WeatherForecast\WeatherForecast\Images\fewclouds.png">
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\fewclouds.png">
       <PackagePath>WeatherForecast\Images\fewclouds.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\WeatherForecast\WeatherForecast\WeatherForecast\Images\mist.png">
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\mist.png">
       <PackagePath>WeatherForecast\Images\mist.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\WeatherForecast\WeatherForecast\WeatherForecast\Images\moon.png">
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\moon.png">
       <PackagePath>WeatherForecast\Images\moon.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\WeatherForecast\WeatherForecast\WeatherForecast\Images\norain.png">
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\norain.png">
       <PackagePath>WeatherForecast\Images\norain.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\WeatherForecast\WeatherForecast\WeatherForecast\Images\rain.png">
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\rain.png">
       <PackagePath>WeatherForecast\Images\rain.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\WeatherForecast\WeatherForecast\WeatherForecast\Images\reload.png">
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\reload.png">
       <PackagePath>WeatherForecast\Images\reload.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\WeatherForecast\WeatherForecast\WeatherForecast\Images\shower.png">
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\shower.png">
       <PackagePath>WeatherForecast\Images\shower.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\WeatherForecast\WeatherForecast\WeatherForecast\Images\snow.png">
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\snow.png">
       <PackagePath>WeatherForecast\Images\snow.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\WeatherForecast\WeatherForecast\WeatherForecast\Images\storm.png">
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\storm.png">
       <PackagePath>WeatherForecast\Images\storm.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\WeatherForecast\WeatherForecast\WeatherForecast\Images\sun.png">
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\sun.png">
       <PackagePath>WeatherForecast\Images\sun.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\WeatherForecast\WeatherForecast\WeatherForecast\Images\clouds_background.jpg">
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\clouds_background.jpg">
       <PackagePath>Assets\clouds_background.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\WeatherForecast\WeatherForecast\WeatherForecast\Images\fog.jpg">
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\drizzle_background.jpg">
+      <PackagePath>Assets\drizzle_background.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\fog.jpg">
       <PackagePath>Assets\fog.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\WeatherForecast\WeatherForecast\WeatherForecast\Images\mist_background.jpg">
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\hail_background.jpg">
+      <PackagePath>Assets\hail_background.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\mist_background.jpg">
       <PackagePath>Assets\mist_background.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\WeatherForecast\WeatherForecast\WeatherForecast\Images\rain_background.jpg">
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\rain_background.jpg">
       <PackagePath>Assets\rain_background.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\WeatherForecast\WeatherForecast\WeatherForecast\Images\sun_background.jpg">
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\snow_background.jpg">
+      <PackagePath>Assets\snow_background.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\storm_background.jpg">
+      <PackagePath>Assets\storm_background.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\sun_background.jpg">
       <PackagePath>Assets\sun_background.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\WeatherForecast\WeatherForecast\WeatherForecast\Images\clouds_background.jpg">
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\clouds_background.jpg">
       <PackagePath>WeatherForecast\Images\clouds_background.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\WeatherForecast\WeatherForecast\WeatherForecast\Images\fog.jpg">
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\drizzle_background.jpg">
+      <PackagePath>WeatherForecast\Images\drizzle_background.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\fog.jpg">
       <PackagePath>WeatherForecast\Images\fog.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\WeatherForecast\WeatherForecast\WeatherForecast\Images\mist_background.jpg">
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\hail_background.jpg">
+      <PackagePath>WeatherForecast\Images\hail_background.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\mist_background.jpg">
       <PackagePath>WeatherForecast\Images\mist_background.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\WeatherForecast\WeatherForecast\WeatherForecast\Images\rain_background.jpg">
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\rain_background.jpg">
       <PackagePath>WeatherForecast\Images\rain_background.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\WeatherForecast\WeatherForecast\WeatherForecast\Images\sun_background.jpg">
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\snow_background.jpg">
+      <PackagePath>WeatherForecast\Images\snow_background.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\storm_background.jpg">
+      <PackagePath>WeatherForecast\Images\storm_background.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast\Images\sun_background.jpg">
       <PackagePath>WeatherForecast\Images\sun_background.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Debug\WeatherForecast.UWP.xr.xml">
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Debug\WeatherForecast.UWP.xr.xml">
       <PackagePath>WeatherForecast.UWP.xr.xml</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.15063.0\Windows.winmd">
@@ -627,11 +730,11 @@
     <AppxPackagedFile Include="C:\Users\asus\.nuget\packages\xamarin.forms\2.4.0.280\lib\uap10.0\Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml">
       <PackagePath>Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Debug\Core\WeatherForecast.UWP.exe">
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Debug\Core\WeatherForecast.UWP.exe">
       <PackagePath>WeatherForecast.UWP.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

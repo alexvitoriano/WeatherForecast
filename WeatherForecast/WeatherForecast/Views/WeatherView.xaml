@@ -4,7 +4,7 @@
              x:Class="WeatherForecast.Views.WeatherView"
              xmlns:controls="clr-namespace:WeatherForecast.Controls;assembly=WeatherForecast"
              xmlns:templates="clr-namespace:WeatherForecast.Views.Templates;assembly=WeatherForecast"
-             Title="Weather Forecast">
+             Title="AlexVitoriano.Tempo">
     <ContentPage.Resources>
         <ResourceDictionary>
 
@@ -28,10 +28,7 @@
         </ResourceDictionary>
     </ContentPage.Resources>
     <ContentPage.ToolbarItems>
-        <ToolbarItem 
-            Icon="reload.png"
-            Text="Reaload"
-            Command="{Binding ReloadCommand}"/>
+        <ToolbarItem Icon="reload.png" Text="Reload" Order="Primary" Command="{Binding ReloadCommand}"></ToolbarItem>
     </ContentPage.ToolbarItems>
     <ContentPage.Content>
         <Grid

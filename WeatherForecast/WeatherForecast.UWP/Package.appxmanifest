@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest" xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10" IgnorableNamespaces="uap mp">
-  <Identity Name="593d3d90-6cdb-45c6-9ad6-ad0810499f6e" Publisher="CN=Alex" Version="1.0.0.0" />
-  <mp:PhoneIdentity PhoneProductId="593d3d90-6cdb-45c6-9ad6-ad0810499f6e" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
+  <Identity Name="44250AlexVitoriano.com.AlexVitoriano.Tempo" Publisher="CN=C2206A17-5C4D-40FA-819E-F040A0EB815F" Version="1.1.0.0" />
+  <mp:PhoneIdentity PhoneProductId="19f48852-f4cc-468e-854d-29a1ea61e66d" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
-    <DisplayName>WeatherForecast.UWP</DisplayName>
-    <PublisherDisplayName>Alex</PublisherDisplayName>
+    <DisplayName>AlexVitoriano.Tempo</DisplayName>
+    <PublisherDisplayName>AlexVitoriano.com</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
   <Dependencies>
@@ -15,8 +15,8 @@
   </Resources>
   <Applications>
     <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="WeatherForecast.UWP.App">
-      <uap:VisualElements DisplayName="WeatherForecast.UWP" Square150x150Logo="Assets\Square150x150Logo.png" Square44x44Logo="Assets\Square44x44Logo.png" Description="WeatherForecast.UWP" BackgroundColor="transparent">
-        <uap:DefaultTile Wide310x150Logo="Assets\Wide310x150Logo.png">
+      <uap:VisualElements DisplayName="AlexVitoriano.Tempo" Square150x150Logo="Assets\Square150x150Logo.png" Square44x44Logo="Assets\Square44x44Logo.png" Description="WeatherForecast.UWP" BackgroundColor="transparent">
+        <uap:DefaultTile Wide310x150Logo="Assets\Wide310x150Logo.png" Square310x310Logo="Assets\LargeTile.png" Square71x71Logo="Assets\SmallTile.png">
         </uap:DefaultTile>
         <uap:SplashScreen Image="Assets\SplashScreen.png" />
       </uap:VisualElements>

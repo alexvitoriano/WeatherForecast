@@ -97,8 +97,10 @@
     <Content Include="Images\brokenclouds.png" />
     <Content Include="Images\cloud.png" />
     <Content Include="Images\clouds_background.jpg" />
+    <Content Include="Images\drizzle_background.jpg" />
     <Content Include="Images\fewclouds.png" />
     <Content Include="Images\fog.jpg" />
+    <Content Include="Images\hail_background.jpg" />
     <Content Include="Images\mist.png" />
     <Content Include="Images\mist_background.jpg" />
     <Content Include="Images\moon.png" />
@@ -108,7 +110,9 @@
     <Content Include="Images\reload.png" />
     <Content Include="Images\shower.png" />
     <Content Include="Images\snow.png" />
+    <Content Include="Images\snow_background.jpg" />
     <Content Include="Images\storm.png" />
+    <Content Include="Images\storm_background.jpg" />
     <Content Include="Images\sun.png" />
     <Content Include="Images\sun_background.jpg" />
   </ItemGroup>

@@ -1,29 +1,3 @@
-D:/Fontes/WeatherForecast/WeatherForecast/WeatherForecast/bin/Debug/WeatherForecast.dll
-D:/Fontes/WeatherForecast/WeatherForecast/WeatherForecast/bin/Debug/WeatherForecast.pdb
-D:/Fontes/WeatherForecast/WeatherForecast/WeatherForecast/bin/Debug/Xamarin.Forms.Core.dll
-D:/Fontes/WeatherForecast/WeatherForecast/WeatherForecast/bin/Debug/Xamarin.Forms.Platform.dll
-D:/Fontes/WeatherForecast/WeatherForecast/WeatherForecast/bin/Debug/Xamarin.Forms.Xaml.dll
-D:/Fontes/WeatherForecast/WeatherForecast/WeatherForecast/bin/Debug/Xamarin.Forms.Core.pdb
-D:/Fontes/WeatherForecast/WeatherForecast/WeatherForecast/bin/Debug/Xamarin.Forms.Core.xml
-D:/Fontes/WeatherForecast/WeatherForecast/WeatherForecast/bin/Debug/Xamarin.Forms.Platform.pdb
-D:/Fontes/WeatherForecast/WeatherForecast/WeatherForecast/bin/Debug/Xamarin.Forms.Xaml.pdb
-D:/Fontes/WeatherForecast/WeatherForecast/WeatherForecast/bin/Debug/Xamarin.Forms.Xaml.xml
-D:/Fontes/WeatherForecast/WeatherForecast/WeatherForecast/obj/Debug/WeatherForecast.csprojResolveAssemblyReference.cache
-D:/Fontes/WeatherForecast/WeatherForecast/WeatherForecast/obj/Debug/WeatherForecast.csproj.CoreCompileInputs.cache
-D:/Fontes/WeatherForecast/WeatherForecast/WeatherForecast/obj/Debug/WeatherForecast.MainPage.xaml.g.cs
-D:/Fontes/WeatherForecast/WeatherForecast/WeatherForecast/obj/Debug/WeatherForecast.App.xaml.g.cs
-D:/Fontes/WeatherForecast/WeatherForecast/WeatherForecast/obj/Debug/WeatherForecast.dll
-D:/Fontes/WeatherForecast/WeatherForecast/WeatherForecast/obj/Debug/WeatherForecast.pdb
-D:/Fontes/WeatherForecast/WeatherForecast/WeatherForecast/bin/Debug/Newtonsoft.Json.dll
-D:/Fontes/WeatherForecast/WeatherForecast/WeatherForecast/bin/Debug/Newtonsoft.Json.xml
-D:/Fontes/WeatherForecast/WeatherForecast/WeatherForecast/obj/Debug/WeatherForecast.Views.Templates.WeatherItemTemplate.xaml.g.cs
-D:/Fontes/WeatherForecast/WeatherForecast/WeatherForecast/obj/Debug/WeatherForecast.Views.CustomNavigationPage.xaml.g.cs
-D:/Fontes/WeatherForecast/WeatherForecast/WeatherForecast/obj/Debug/WeatherForecast.Views.WeatherView.xaml.g.cs
-D:/Fontes/WeatherForecast/WeatherForecast/WeatherForecast/bin/Debug/Plugin.Geolocator.Abstractions.dll
-D:/Fontes/WeatherForecast/WeatherForecast/WeatherForecast/bin/Debug/Plugin.Geolocator.dll
-D:/Fontes/WeatherForecast/WeatherForecast/WeatherForecast/bin/Debug/Plugin.Geolocator.pdb
-D:/Fontes/WeatherForecast/WeatherForecast/WeatherForecast/bin/Debug/Plugin.Geolocator.xml
-D:/Fontes/WeatherForecast/WeatherForecast/WeatherForecast/bin/Debug/Plugin.Geolocator.Abstractions.pdb
 /Volumes/NOVO VOLUME/WeatherForecast/WeatherForecast/WeatherForecast/obj/Debug/WeatherForecast.csprojResolveAssemblyReference.cache
 /Volumes/NOVO VOLUME/WeatherForecast/WeatherForecast/WeatherForecast/obj/Debug/WeatherForecast.csproj.CoreCompileInputs.cache
 /Volumes/NOVO VOLUME/WeatherForecast/WeatherForecast/WeatherForecast/obj/Debug/WeatherForecast.MainPage.xaml.g.cs

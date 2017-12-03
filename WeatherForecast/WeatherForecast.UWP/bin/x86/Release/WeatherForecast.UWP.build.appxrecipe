@@ -1,0 +1,452 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>PC</Machine>
+    <WindowsUser>Alex</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>19f48852-f4cc-468e-854d-29a1ea61e66d</PackageIdentityName>
+    <PackageIdentityPublisher>CN=C2206A17-5C4D-40FA-819E-F040A0EB815F</PackageIdentityPublisher>
+    <IntermediateOutputPath>D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\obj\x86\Release\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\AppX</LayoutDir>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\Assets\brokenclouds.png">
+      <PackagePath>Assets\brokenclouds.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\Assets\cloud.png">
+      <PackagePath>Assets\cloud.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\Assets\clouds_background.jpg">
+      <PackagePath>Assets\clouds_background.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\Assets\drizzle_background.jpg">
+      <PackagePath>Assets\drizzle_background.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\Assets\fewclouds.png">
+      <PackagePath>Assets\fewclouds.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\Assets\fog.jpg">
+      <PackagePath>Assets\fog.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\Assets\hail_background.jpg">
+      <PackagePath>Assets\hail_background.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\Assets\LargeTile.scale-100.png">
+      <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\Assets\LargeTile.scale-125.png">
+      <PackagePath>Assets\LargeTile.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\Assets\LargeTile.scale-150.png">
+      <PackagePath>Assets\LargeTile.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\Assets\LargeTile.scale-200.png">
+      <PackagePath>Assets\LargeTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\Assets\LargeTile.scale-400.png">
+      <PackagePath>Assets\LargeTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\Assets\LockScreenLogo.scale-100.png">
+      <PackagePath>Assets\LockScreenLogo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\Assets\LockScreenLogo.scale-125.png">
+      <PackagePath>Assets\LockScreenLogo.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\Assets\LockScreenLogo.scale-150.png">
+      <PackagePath>Assets\LockScreenLogo.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\Assets\LockScreenLogo.scale-400.png">
+      <PackagePath>Assets\LockScreenLogo.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\Assets\mist.png">
+      <PackagePath>Assets\mist.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\Assets\mist_background.jpg">
+      <PackagePath>Assets\mist_background.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\Assets\moon.png">
+      <PackagePath>Assets\moon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\Assets\norain.png">
+      <PackagePath>Assets\norain.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\Assets\rain.png">
+      <PackagePath>Assets\rain.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\Assets\rain_background.jpg">
+      <PackagePath>Assets\rain_background.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\Assets\reload.png">
+      <PackagePath>Assets\reload.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\Assets\shower.png">
+      <PackagePath>Assets\shower.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\Assets\SmallTile.scale-100.png">
+      <PackagePath>Assets\SmallTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\Assets\SmallTile.scale-125.png">
+      <PackagePath>Assets\SmallTile.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\Assets\SmallTile.scale-150.png">
+      <PackagePath>Assets\SmallTile.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\Assets\SmallTile.scale-200.png">
+      <PackagePath>Assets\SmallTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\Assets\SmallTile.scale-400.png">
+      <PackagePath>Assets\SmallTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\Assets\snow.png">
+      <PackagePath>Assets\snow.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\Assets\snow_background.jpg">
+      <PackagePath>Assets\snow_background.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\Assets\SplashScreen.scale-125.png">
+      <PackagePath>Assets\SplashScreen.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\Assets\SplashScreen.scale-150.png">
+      <PackagePath>Assets\SplashScreen.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\Assets\SplashScreen.scale-400.png">
+      <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-100.png">
+      <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-125.png">
+      <PackagePath>Assets\Square150x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-150.png">
+      <PackagePath>Assets\Square150x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-400.png">
+      <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-100.png">
+      <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-125.png">
+      <PackagePath>Assets\Square44x44Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-150.png">
+      <PackagePath>Assets\Square44x44Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-400.png">
+      <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-16.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-16_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-16_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-24.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-256.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-256_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-256_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-32.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-32_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-32_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-48.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-48_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-48_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\Assets\StoreLogo.scale-125.png">
+      <PackagePath>Assets\StoreLogo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\Assets\StoreLogo.scale-150.png">
+      <PackagePath>Assets\StoreLogo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\Assets\StoreLogo.scale-200.png">
+      <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\Assets\StoreLogo.scale-400.png">
+      <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\Assets\storm.png">
+      <PackagePath>Assets\storm.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\Assets\storm_background.jpg">
+      <PackagePath>Assets\storm_background.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\Assets\sun.png">
+      <PackagePath>Assets\sun.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\Assets\sun_background.jpg">
+      <PackagePath>Assets\sun_background.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-125.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-150.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-400.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\clrcompression.dll">
+      <PackagePath>clrcompression.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\reload.png">
+      <PackagePath>reload.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\WeatherForecast.UWP.dll">
+      <PackagePath>WeatherForecast.UWP.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\WeatherForecast.UWP.exe">
+      <PackagePath>WeatherForecast.UWP.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\WeatherForecast.UWP.pdb">
+      <PackagePath>WeatherForecast.UWP.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\WeatherForecast\Images\brokenclouds.png">
+      <PackagePath>WeatherForecast\Images\brokenclouds.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\WeatherForecast\Images\cloud.png">
+      <PackagePath>WeatherForecast\Images\cloud.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\WeatherForecast\Images\clouds_background.jpg">
+      <PackagePath>WeatherForecast\Images\clouds_background.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\WeatherForecast\Images\drizzle_background.jpg">
+      <PackagePath>WeatherForecast\Images\drizzle_background.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\WeatherForecast\Images\fewclouds.png">
+      <PackagePath>WeatherForecast\Images\fewclouds.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\WeatherForecast\Images\fog.jpg">
+      <PackagePath>WeatherForecast\Images\fog.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\WeatherForecast\Images\hail_background.jpg">
+      <PackagePath>WeatherForecast\Images\hail_background.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\WeatherForecast\Images\mist.png">
+      <PackagePath>WeatherForecast\Images\mist.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\WeatherForecast\Images\mist_background.jpg">
+      <PackagePath>WeatherForecast\Images\mist_background.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\WeatherForecast\Images\moon.png">
+      <PackagePath>WeatherForecast\Images\moon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\WeatherForecast\Images\norain.png">
+      <PackagePath>WeatherForecast\Images\norain.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\WeatherForecast\Images\rain.png">
+      <PackagePath>WeatherForecast\Images\rain.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\WeatherForecast\Images\rain_background.jpg">
+      <PackagePath>WeatherForecast\Images\rain_background.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\WeatherForecast\Images\reload.png">
+      <PackagePath>WeatherForecast\Images\reload.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\WeatherForecast\Images\shower.png">
+      <PackagePath>WeatherForecast\Images\shower.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\WeatherForecast\Images\snow.png">
+      <PackagePath>WeatherForecast\Images\snow.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\WeatherForecast\Images\snow_background.jpg">
+      <PackagePath>WeatherForecast\Images\snow_background.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\WeatherForecast\Images\storm.png">
+      <PackagePath>WeatherForecast\Images\storm.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\WeatherForecast\Images\storm_background.jpg">
+      <PackagePath>WeatherForecast\Images\storm_background.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\WeatherForecast\Images\sun.png">
+      <PackagePath>WeatherForecast\Images\sun.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\WeatherForecast\Images\sun_background.jpg">
+      <PackagePath>WeatherForecast\Images\sun_background.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\_Resources\0.rsrc">
+      <PackagePath>_Resources\0.rsrc</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\_Resources\1.rsrc">
+      <PackagePath>_Resources\1.rsrc</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontes\WeatherForecast\WeatherForecast\WeatherForecast.UWP\bin\x86\Release\ilc\_Resources\index.txt">
+      <PackagePath>_Resources\index.txt</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.3\1.3\">
+      <Name>Microsoft.NET.Native.Framework.1.3</Name>
+      <Version>1.3.24201.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.3, MinVersion = 1.3.24201.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.3\1.3\.\arm\ret\Native\Microsoft.NET.Native.Framework.1.3.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.3\1.3\">
+      <Name>Microsoft.NET.Native.Framework.1.3</Name>
+      <Version>1.3.24201.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.3, MinVersion = 1.3.24201.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.3\1.3\.\x64\ret\Native\Microsoft.NET.Native.Framework.1.3.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.3\1.3\">
+      <Name>Microsoft.NET.Native.Framework.1.3</Name>
+      <Version>1.3.24201.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.3, MinVersion = 1.3.24201.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.3\1.3\.\x86\ret\Native\Microsoft.NET.Native.Framework.1.3.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.4\1.4\">
+      <Name>Microsoft.NET.Native.Runtime.1.4</Name>
+      <Version>1.4.24201.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.4, MinVersion = 1.4.24201.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.4\1.4\.\AppX\ARM\Microsoft.NET.Native.Runtime.1.4.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.4\1.4\">
+      <Name>Microsoft.NET.Native.Runtime.1.4</Name>
+      <Version>1.4.24201.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.4, MinVersion = 1.4.24201.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.4\1.4\.\AppX\x64\Microsoft.NET.Native.Runtime.1.4.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.4\1.4\">
+      <Name>Microsoft.NET.Native.Runtime.1.4</Name>
+      <Version>1.4.24201.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.4, MinVersion = 1.4.24201.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.4\1.4\.\AppX\x86\Microsoft.NET.Native.Runtime.1.4.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.25426.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.25426.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.25426.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.25426.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.25426.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.25426.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

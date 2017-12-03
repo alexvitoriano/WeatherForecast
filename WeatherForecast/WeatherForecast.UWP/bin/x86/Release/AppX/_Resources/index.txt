@@ -1,0 +1,3 @@
+WeatherForecast, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  WeatherForecast.MainPage.xaml
+  WeatherForecast.App.xaml
